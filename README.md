@@ -1,6 +1,8 @@
 # Reckitt
 
-In this project we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+In this project we will use supervised and unsupervised Machine Learning algorithms to analyze Reckitt sales data. Reckitt is a multinational company dedicated to the generation of health, hygiene and household cleaning products. Among its most prominent products are Vanish, Lysol, Harpic, Dettol, durex, among others.
+
+The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach, and sanitizer products, respectively. The objective of this project is to evaluate the sales performance of Vanish and Lysol products, identify key opportunities to grow the market and sales, and make sales forecasts for both brands.
 
 **This project was part of EBAC Data Scientist Certificate**
 
@@ -8,20 +10,23 @@ In this project we will predict if the Falcon 9 first stage will land successful
 
 ## Proyect Structure
 
-1.- Data collection
+1.- Data collection and Wrangling
 
-2.- Data Wrangling
+2.- Exploratory Data Analysis (EDA)
 
-3.- Exploratory Analysis
+3.- Data Visualization
 
-4.- Data Visualization
+4.- Segmentation with K-means Clustering
 
-5.- Machine Learning
+5.- Time Series Forecasting
+
+6.- Machine Learning
 
 ## Libraries
 
-Pandas
+** Pandas
 
+** NumPy
 Scikit-learn
 
 Matplotlib
