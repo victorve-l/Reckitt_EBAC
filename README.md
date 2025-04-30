@@ -22,20 +22,19 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 6.- Machine Learning
 
-## Libraries
+## Python Libraries
 
-** Pandas
+• Pandas
 
-** NumPy
-Scikit-learn
+• NumPy
 
-Matplotlib
+• Scikit-learn
 
-BeautifulSoup
+• Statsmodel
 
-Requests
+• Matplotlib
 
-Selenium
+• Seaborn
 
 ## Presentation
 
