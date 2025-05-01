@@ -1,0 +1,60 @@
+-- Query 1: sales per category 
+SELECT ROUND(SUM(fs.TOTAL_UNIT_SALES),2) AS TOTAL_UNIT_SALES,
+	   ROUND(SUM(fs.TOTAL_VALUE_SALES),2) TOTAL_VALUE_SALES,
+	   ROUND(SUM(fs.TOTAL_UNIT_AVG_WEEKLY_SALES),2) TOTAL_UNIT_AVG_WEEKLY_SALES,
+	   dp.CATEGORY,
+	   ds.ATTR1
+FROM dbo.fact_sales fs
+	INNER JOIN dbo.dim_product dp ON fs.ITEM_CODE = dp.ITEM
+	INNER JOIN dbo.dim_segment ds ON dp.CATEGORY = ds.CATEGORY
+GROUP BY dp.CATEGORY, ds.ATTR1
+ORDER BY ROUND(SUM(fs.TOTAL_VALUE_SALES),2) DESC
+
+
+-- Query 2 : sales per region
+SELECT ROUND(SUM(TOTAL_UNIT_SALES),2) AS TOTAL_UNIT_SALES,
+	   ROUND(SUM(TOTAL_VALUE_SALES),2) AS TOTAL_VALUE_SALES,
+	   ROUND(SUM(TOTAL_UNIT_AVG_WEEKLY_SALES),2) AS TOTAL_UNIT_AVG_WEEKLY_SALES,
+	   REGION
+FROM dbo.fact_sales
+GROUP BY REGION
+ORDER BY TOTAL_VALUE_SALES DESC
+
+
+-- Query 3: sales per time period (year)
+SELECT ROUND(SUM(fs.TOTAL_UNIT_SALES),2) AS TOTAL_UNIT_SALES,
+	   ROUND(SUM(fs.TOTAL_VALUE_SALES),2) AS TOTAL_VALUE_SALES,
+	   ROUND(SUM(fs.TOTAL_UNIT_AVG_WEEKLY_SALES),2) AS TOTAL_UNIT_AVG_WEEKLY_SALES,
+	   dc.YEAR
+FROM dbo.fact_sales fs
+	INNER JOIN dbo.dim_calendar dc ON fs.WEEK = dc.WEEK
+GROUP BY dc.YEAR 
+ORDER BY TOTAL_VALUE_SALES DESC
+
+
+-- Query 4: sales per time period (year 2022)
+SELECT ROUND(SUM(fs.TOTAL_UNIT_SALES),2) AS TOTAL_UNIT_SALES,
+	   ROUND(SUM(fs.TOTAL_VALUE_SALES),2) AS TOTAL_VALUE_SALES,
+	   ROUND(SUM(fs.TOTAL_UNIT_AVG_WEEKLY_SALES),2) AS TOTAL_UNIT_AVG_WEEKLY_SALES,
+	   dc.MONTH
+FROM dbo.fact_sales fs
+	INNER JOIN dbo.dim_calendar dc ON fs.WEEK = dc.WEEK
+WHERE dc.YEAR = 2022
+GROUP BY dc.MONTH
+ORDER BY ROUND(SUM(fs.TOTAL_VALUE_SALES),2) DESC;
+
+-- Query 5: sales per time period (year 2023)
+SELECT ROUND(SUM(fs.TOTAL_UNIT_SALES),2) AS TOTAL_UNIT_SALES,
+	   ROUND(SUM(fs.TOTAL_VALUE_SALES),2) AS TOTAL_VALUE_SALES,
+	   ROUND(SUM(fs.TOTAL_UNIT_AVG_WEEKLY_SALES),2) AS TOTAL_UNIT_AVG_WEEKLY_SALES,
+	   dc.MONTH
+FROM dbo.fact_sales fs
+	INNER JOIN dbo.dim_calendar dc ON fs.WEEK = dc.WEEK
+WHERE dc.YEAR = 2023
+GROUP BY dc.MONTH
+ORDER BY ROUND(SUM(fs.TOTAL_VALUE_SALES),2) DESC;
+
+
+
+
+-- De acuerdo a la consulta de ventas por año, el año 2022 generó más valor en ventas que el año 2023. En el caso del 2022, el mes en que más valor generado se tuvo fue en julio (mes 7) mientras que en el año 2023 el mes que más valor generó fue mayo (mes 5)--
