@@ -6,7 +6,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 **This project was part of EBAC Data Scientist Certificate**
 
-<div align="center"><img src="https://github.com/ferdal137/SpaceX/blob/main/Templates/SpaceX.png?raw=true" width="1100" height="480" /></div>
+<div align="center"><img src="https://github.com/ferdal137/SpaceX/blob/main/Templates/Logo.png?raw=true" width="1100" height="480" /></div>
 
 ## Proyect Structure
 
