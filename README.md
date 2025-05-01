@@ -34,6 +34,12 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 • Seaborn
 
+## Other tools
+• SQL Server
+
+• Power BI
+
+
 ## Presentation
 
 [Link to the presentation](Templates/Logo.png)
