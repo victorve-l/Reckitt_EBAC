@@ -42,4 +42,4 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 ## Presentation
 
-[Link to the presentation](Templates/Logo.png)
+[Link to the presentation](https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Reckitt_DataScience_FinalPresentation.pdf)
