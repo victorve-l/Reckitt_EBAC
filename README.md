@@ -9,18 +9,18 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 ## Proyect Structure
 
-1.- Data collection and Wrangling
+1.- Data collection and Wrangling 📁
 
-2.- Exploratory Data Analysis (EDA)
+2.- Exploratory Data Analysis (EDA) 🔭
 
-3.- Data Visualization
+3.- Data Visualization 📊
 
-4.- Segmentation with K-means Clustering
+4.- Segmentation with K-means Clustering 📚
 
-5.- Time Series Forecasting
+5.- Time Series Forecasting 📈
 
 
-## Python Libraries
+## Python Libraries 
 
 • Pandas  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20" /></a>
 
@@ -28,7 +28,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 • Scikit-learn  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30" /></a>
 
-• Statsmodels  <a target="_blank" href="https://www.statsmodels.org/stable/_static/statsmodels_logo.svg" style="display: inline-block;"><img src="https://www.statsmodels.org/v0.11.1/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="25" height="25" /></a>
+• Statsmodels  <a target="_blank" href="https://www.statsmodels.org/stable/_static/statsmodels_logo.svg" style="display: inline-block;"><img src="https://www.statsmodels.org/v0.11.1/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="20" height="20" /></a>
 
 • Matplotlib  <a target="_blank" href="https://matplotlib.org/_static/logo2_compressed.svg" style="display: inline-block;"><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="28" height="28" /></a>
 
