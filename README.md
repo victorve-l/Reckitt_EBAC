@@ -5,7 +5,7 @@ In this project we will use supervised and unsupervised Machine Learning algorit
 The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach, and sanitizer products, respectively. The objective of this project is to evaluate the sales performance of Vanish and Lysol products, identify key opportunities to grow the market and sales, and make sales forecasts for both brands.
 
 **This project was part of EBAC Data Scientist Certificate**
-<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Logo.png?raw=true" width="300" height="400" /></div>
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Logo.png?raw=true" width="500" height="600" /></div>
 ## Proyect Structure
 
 1.- Data collection and Wrangling
