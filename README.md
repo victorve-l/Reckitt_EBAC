@@ -19,7 +19,6 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 5.- Time Series Forecasting
 
-6.- Machine Learning
 
 ## Python Libraries
 
