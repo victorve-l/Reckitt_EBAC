@@ -53,8 +53,3 @@ FROM dbo.fact_sales fs
 WHERE dc.YEAR = 2023
 GROUP BY dc.MONTH
 ORDER BY ROUND(SUM(fs.TOTAL_VALUE_SALES),2) DESC;
-
-
-
-
--- De acuerdo a la consulta de ventas por año, el año 2022 generó más valor en ventas que el año 2023. En el caso del 2022, el mes en que más valor generado se tuvo fue en julio (mes 7) mientras que en el año 2023 el mes que más valor generó fue mayo (mes 5)--
