@@ -37,7 +37,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 ## Other tools
 • SQL Server
 
-• Power BI <a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="42" height="42" /></a>
+• Power BI  <a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="22" height="22" /></a>
 
 
 ## Presentation
