@@ -7,20 +7,73 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 **This project was part of EBAC Data Scientist Certificate**
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Logo.png?raw=true" width="500" height="600" /></div>
 
+# Project Overview
+
+In this project we will use supervised and unsupervised Machine Learning algorithms to analyze Reckitt sales data. Reckitt is a multinational company dedicated to the generation of health, hygiene and household cleaning products. Among its most prominent products are Vanish, Lysol, Harpic, Dettol, durex, among others.
+
+The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach, and sanitizer products, respectively. The objective of this project is to evaluate the sales performance of Vanish and Lysol products, identify key opportunities to grow the market and sales, and make sales forecasts for both brands.
+
+**This project was part of EBAC Data Scientist Certificate**
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Logo.png?raw=true" width="500" height="600" /></div>
+
 ## Proyect Structure
-1.- Introduction Python
+1.- <a href="#introduction">Introduction ⚡</a>
 
-2.- Libraries and other methods used
+2.- <a href="#python-libraries">Python libraries and other methods used 🔍</a>
 
-3.- Data collection and Wrangling 📁
+3.- <a href="#data-collection-wrangling">Data collection and Wrangling 📁</a>
 
-4.- Exploratory Data Analysis (EDA)🔭
+4.- <a href="#exploratory-data-analysis">Exploratory Data Analysis (EDA)🔭</a>
 
-5.- Data Visualization 📊
+5.- <a href="#data-visualization">Data Visualization 📊</a>
 
-6.- Segmentation with K-means Clustering 📚
+6.- <a href="#segmentation-k-means">Segmentation with K-means Clustering 📚</a>
 
-7.- Time Series Forecasting 📈
+7.- <a href="#time-series-forecasting">Time Series Forecasting 📈</a>
+
+<br><br>
+
+---
+
+<h3 id="introduction">Introduction ⚡</h3>
+<p>Aquí irá el contenido detallado de tu introducción. Describe el contexto general del proyecto y su relevancia.</p>
+<p>...</p>
+
+---
+
+<h3 id="python-libraries">Python libraries and other methods used 🔍</h3>
+<p>En esta sección, enumera y explica las librerías de Python utilizadas y otros métodos importantes.</p>
+<p>...</p>
+
+---
+
+<h3 id="data-collection-wrangling">Data collection and Wrangling 📁</h3>
+<p>Detalla cómo recolectaste los datos y los pasos que seguiste para su limpieza y preparación.</p>
+<p>...</p>
+
+---
+
+<h3 id="exploratory-data-analysis">Exploratory Data Analysis (EDA)🔭</h3>
+<p>Describe tu análisis exploratorio de datos, los hallazgos clave y las visualizaciones iniciales.</p>
+<p>...</p>
+
+---
+
+<h3 id="data-visualization">Data Visualization 📊</h3>
+<p>Muestra y explica tus visualizaciones de datos más relevantes aquí.</p>
+<p>...</p>
+
+---
+
+<h3 id="segmentation-k-means">Segmentation with K-means Clustering 📚</h3>
+<p>Explica tu proceso de segmentación usando K-means clustering, incluyendo los resultados y las interpretaciones.</p>
+<p>...</p>
+
+---
+
+<h3 id="time-series-forecasting">Time Series Forecasting 📈</h3>
+<p>Detalla tus modelos de pronóstico de series de tiempo, los resultados y las implicaciones.</p>
+<p>...</p>
 
 ## Python Libraries 
 
