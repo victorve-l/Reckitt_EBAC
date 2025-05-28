@@ -118,7 +118,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 Pandas was used to clean up and transform each file. At the end of this section, a single consolidated dataframe was obtained with the sales and profit data for each product including their descriptions and sales dates, respectively. The methods used are presented in the following table:
 
-
+<ul><li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC](https://github.com/victorve-l/Reckitt_EBAC/blob/main/01_Data%20Collection%20and%20Wrangling/Data%20collection%20and%20wrangling.ipynb">Click here if you want to see my full code for this section</a></li> </ul>
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig1.jpg?raw=true" width="500" height="500" /></div>
 <p>...</p>
 
