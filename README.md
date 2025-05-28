@@ -46,6 +46,11 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 
 
+8.- <a href="#conclusions">Conclusions 📒</a>
+
+
+
+
 <br>
 
 
@@ -94,8 +99,6 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 
 
----
-
 
 
 <h2 id="data-collection-wrangling">Data collection and Wrangling 📁</h2>
@@ -105,8 +108,6 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 <p>...</p>
 
 
-
----
 
 
 
@@ -118,7 +119,6 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 
 
----
 
 
 
@@ -130,7 +130,6 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 
 
----
 
 
 
@@ -142,7 +141,6 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 
 
----
 
 
 
@@ -156,7 +154,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 
 
-## Presentation
+<h2 id="conclusions">Conclusions 📒</h2>
 
 
 
