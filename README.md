@@ -26,14 +26,13 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 ---
 
-<h3 id="introduction">Introduction ⚡</h3>
+<h2 id="introduction">Introduction ⚡</h2>
 <p>Aquí irá el contenido detallado de tu introducción. Describe el contexto general del proyecto y su relevancia.</p>
 <p>...</p>
 
 ---
 
-<h3 id="python-libraries">Python libraries and other methods used 🔍</h3>
-
+<h2 id="python-libraries">Python libraries and other methods used 🔍</h2>
 • Pandas  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20" /></a>
 
 • NumPy  <a target="_blank" href="https://numpy.org/doc/stable/_static/numpylogo.svg" style="display: inline-block;"><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="30" height="30" /></a>
@@ -52,33 +51,35 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 ---
 
-<h3 id="data-collection-wrangling">Data collection and Wrangling 📁</h3>
+<h2 id="data-collection-wrangling">Data collection and Wrangling 📁</h2>
 <p>Detalla cómo recolectaste los datos y los pasos que seguiste para su limpieza y preparación.</p>
 <p>...</p>
 
 ---
 
-<h3 id="exploratory-data-analysis">Exploratory Data Analysis (EDA)🔭</h3>
+<h2 id="exploratory-data-analysis">Exploratory Data Analysis (EDA)🔭</h2>
 <p>Describe tu análisis exploratorio de datos, los hallazgos clave y las visualizaciones iniciales.</p>
 <p>...</p>
 
 ---
 
-<h3 id="data-visualization">Data Visualization 📊</h3>
+<h2 id="data-visualization">Data Visualization 📊</h2>
 <p>Muestra y explica tus visualizaciones de datos más relevantes aquí.</p>
 <p>...</p>
 
 ---
 
-<h3 id="segmentation-k-means">Segmentation with K-means Clustering 📚</h3>
+<h2 id="segmentation-k-means">Segmentation with K-means Clustering 📚</h2>
 <p>Explica tu proceso de segmentación usando K-means clustering, incluyendo los resultados y las interpretaciones.</p>
 <p>...</p>
 
 ---
 
-<h3 id="time-series-forecasting">Time Series Forecasting 📈</h3>
+<h2 id="time-series-forecasting">Time Series Forecasting 📈</h2>
 <p>Detalla tus modelos de pronóstico de series de tiempo, los resultados y las implicaciones.</p>
 <p>...</p>
+
+
 
 ## Python Libraries 
 
