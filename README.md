@@ -1,4 +1,4 @@
-# Reckitt
+# Project Overview
 
 In this project we will use supervised and unsupervised Machine Learning algorithms to analyze Reckitt sales data. Reckitt is a multinational company dedicated to the generation of health, hygiene and household cleaning products. Among its most prominent products are Vanish, Lysol, Harpic, Dettol, durex, among others.
 
@@ -8,16 +8,19 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Logo.png?raw=true" width="500" height="600" /></div>
 
 ## Proyect Structure
+1. Introduction
+   
+2. Python libraries and other methods used
 
-1.- Data collection and Wrangling 📁
+3.- Data collection and Wrangling 📁
 
-2.- Exploratory Data Analysis (EDA) 🔭
+4.- Exploratory Data Analysis (EDA) 🔭
 
-3.- Data Visualization 📊
+5.- Data Visualization 📊
 
-4.- Segmentation with K-means Clustering 📚
+6.- Segmentation with K-means Clustering 📚
 
-5.- Time Series Forecasting 📈
+7.- Time Series Forecasting 📈
 
 
 ## Python Libraries 
@@ -34,7 +37,6 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 • Seaborn  <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="24" height="24" /></a>
 
-## Other tools
 • SQL Server  <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="27" height="27" /></a>
 
 • Power BI  <a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="20" height="20" /></a>
