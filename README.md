@@ -54,16 +54,13 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 <br>
 
 
-
 <h2 id="introduction">Introduction ⚡</h2>
-
-<p>Aquí irá el contenido detallado de tu introducción. Describe el contexto general del proyecto y su relevancia.</p>
-
-<p>...</p>
-
-
-
-
+<p>In this project, we will use Data Science to evaluate the current sales strategy of Reckitt's products. In particular, we will focus on Vanish (pre-washers and bleachers) and Lysol (sanitizers) products.</p>
+<div style="display: flex; align-items: center;">
+    <img src="https://m.media-amazon.com/images/I/61F3YLj2edL._AC_UF1000,1000_QL80_.jpg" alt="Vanish" style="width:200px; margin-right: 10px;">
+    <img src="https://eu-images.contentstack.com/v3/assets/blt9ca8222b5acaa556/blte6b55f5dbea81dfb/67787bc5523bb9cc755b74f6/Lizol_-_MX_-_es-MX-3174222.png" alt="Lysol" style="width:200px;">
+</div>
+<p>Why would we use a data science approach to study sales strategies? Because analyzing and processing large volumes of data will make possible to identify consumer behavior patterns, anticipate trends, improve sales efficiency, and optimize marketing strategies.</p>
 
 <h2 id="python-libraries">Python libraries and other methods used 🔍</h2>
 
