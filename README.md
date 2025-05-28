@@ -105,6 +105,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 <h2 id="data-collection-wrangling">Data collection and Wrangling 📁</h2>
 
 <p>The data collected pertains to the sales and profits of various cleaning products sold by several companies in Mexico (including Reckitt). These data were provided by EBAC and consisted of five .csv files:
+  
 • FACT_SALES : data related to product sales and profits.
   
 • DIM_PRODUCT : general product information
@@ -117,8 +118,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 Pandas was used to clean up and transform each file. The methods used are presented in the table below:
 
-Translated with DeepL.com (free version).</p>
-
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig1.jpg?raw=true" width="500" height="600" /></div>
 <p>...</p>
 
 
