@@ -116,7 +116,8 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 • DIM_CALENDAR : dates of the transactions
 
-Pandas was used to clean up and transform each file. The methods used are presented in the table below:
+Pandas was used to clean up and transform each file. At the end of this section, a single consolidated dataframe was obtained with the sales and profit data for each product including their descriptions and sales dates, respectively. The methods used are presented in the following table:
+
 
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig1.jpg?raw=true" width="500" height="500" /></div>
 <p>...</p>
