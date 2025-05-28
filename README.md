@@ -50,10 +50,6 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 
 
----
-
-
-
 <h2 id="introduction">Introduction ⚡</h2>
 
 <p>Aquí irá el contenido detallado de tu introducción. Describe el contexto general del proyecto y su relevancia.</p>
@@ -61,8 +57,6 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 <p>...</p>
 
 
-
----
 
 
 
