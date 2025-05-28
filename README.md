@@ -22,7 +22,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 7.- <a href="#time-series-forecasting">Time Series Forecasting 📈</a>
 
-<br><br>
+<br>
 
 ---
 
