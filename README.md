@@ -118,7 +118,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 Pandas was used to clean up and transform each file. The methods used are presented in the table below:
 
-<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig1.jpg?raw=true" width="500" height="600" /></div>
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig1.jpg?raw=true" width="500" height="500" /></div>
 <p>...</p>
 
 
