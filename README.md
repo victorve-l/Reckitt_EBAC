@@ -59,7 +59,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 <div style="display: flex; align-items: center;">
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://m.media-amazon.com/images/I/61F3YLj2edL._AC_UF1000,1000_QL80_.jpg" alt="Vanish" style="width:110px; margin-right: 6px;"> <img src="https://eu-images.contentstack.com/v3/assets/blt9ca8222b5acaa556/blte6b55f5dbea81dfb/67787bc5523bb9cc755b74f6/Lizol_-_MX_-_es-MX-3174222.png" alt="Lysol" style="width:200px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://m.media-amazon.com/images/I/61F3YLj2edL._AC_UF1000,1000_QL80_.jpg" alt="Vanish" style="width:110px; margin-right: 6px;"> <img src="https://eu-images.contentstack.com/v3/assets/blt9ca8222b5acaa556/blte6b55f5dbea81dfb/67787bc5523bb9cc755b74f6/Lizol_-_MX_-_es-MX-3174222.png" alt="Lysol" style="width:200px;">
 
 </div>
 
