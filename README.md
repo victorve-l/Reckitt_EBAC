@@ -9,11 +9,17 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 ## Proyect Structure
 1.- Introduction Python
+
 2.- Libraries and other methods used
+
 3.- Data collection and Wrangling 📁
+
 4.- Exploratory Data Analysis (EDA)🔭
+
 5.- Data Visualization 📊
+
 6.- Segmentation with K-means Clustering 📚
+
 7.- Time Series Forecasting 📈
 
 ## Python Libraries 
