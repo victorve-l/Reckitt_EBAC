@@ -101,7 +101,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 
 
-
+<p><a href="#project-structure">Back to Project Structure</a></p>
 
 <h2 id="data-collection-wrangling">Data collection and Wrangling 📁</h2>
 
@@ -135,8 +135,8 @@ Pandas was used to clean up and transform each file. At the end of this section,
 
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig2.jpg?raw=true" width="500" height="300" /></div>
 
-<ul><li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/02_Exploratory%20Data%20Analysis%20(EDA)/Exploratory_Data_Analysis_SQL.sql"> Full code for this section</a></li> </ul>
-<h2 id="introduction">Back to Project Structure</h2>
+<a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/02_Exploratory%20Data%20Analysis%20(EDA)/Exploratory_Data_Analysis_SQL.sql"> Full code for this section</a>
+<p><a href="#project-structure">Back to Project Structure</a></p>
 
 
 
@@ -158,9 +158,9 @@ Pandas was used to clean up and transform each file. At the end of this section,
 <p> Finally, an interactive dashboard was created in PowerBI where the total sales and profits of the Vanish and Lysol products, respectively, can be visualized. It is also possible to visualize total profits by region and by product type.</p>
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig5.jpg" width="700" height="220" /></div>
 
-<ul><li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/03_Data%20Visualization/Data%20Visualization.ipynb"> Full code for this section</a></li> </ul>
-<ul><li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/03_Data%20Visualization/Power_BI_Dashboard.pdf"> Dashboard Visualization</a></li> </ul>
-<h2 id="introduction">Back to Project Structure</h2>
+<a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/03_Data%20Visualization/Data%20Visualization.ipynb"> Full code for this section</a>
+<a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/03_Data%20Visualization/Power_BI_Dashboard.pdf"> Dashboard Visualization</a>
+<p><a href="#project-structure">Back to Project Structure</a></p>
 
 
 
@@ -181,8 +181,7 @@ Pandas was used to clean up and transform each file. At the end of this section,
 <p>According to the cluster assignment, clusters 1 and 4 belong to products whose profits are 'low' (less than 1500 units). Cluster 3 belongs to products with intermediate profits (approximately 27 000 units). Clusters 0 and 2 belong to products that generated high profits (greater than 70,000 units). It should be noted that sales en these last groups were variable compared to others.</p>
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig9.jpg" width="600" height="450" /></div>
 <a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/04_Segmentation%20with%20K-means%20Clustering/Segmentation%20with%20K-means%20Clustering.ipynb"> Full code for this section</a>
-<h2 id="introduction">Back to Project Structure</h2>
-
+<a href="#project-structure">Back to Project Structure</a>
 
 <h2 id="time-series-forecasting">Time Series Forecasting 📈</h2>
 
@@ -202,8 +201,8 @@ Pandas was used to clean up and transform each file. At the end of this section,
 </ul>
 <p>According to the ARIMA (3,1,1), a model with an RMSE of 3748 units and a MAPE of 8% was obtained, suggesting that this model is adequate to predict the future earnings of VANISH and LYSOL products.</p>
 <a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/05_Time%20Series%20Forecasting/Time%20Series%20Forecasting.ipynb"> Full code for this section</a>
+<p><a href="#project-structure">Back to Project Structure</a></p>
 
-<h2 id="introduction">Back to Project Structure</h2>
 
 
 <h2 id="conclusions">Conclusions 📒</h2>
@@ -227,4 +226,4 @@ our competitors offer something better?</li>
 time. This is in order to prevent declines in total profits (as predicted by the ARIMA point forecasts).</p>
 
 <a[Link to the presentation](https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Reckitt_DataScience_FinalPresentation.pdf)</a>
-<a href="#introduction">Back to Project Structure</a>
+<a href="#project-structure">Back to Project Structure</a>
