@@ -148,7 +148,7 @@ Pandas was used to clean up and transform each file. At the end of this section,
 
 Sales by region showed a distribution skewed to the right, meaning that in all regions products are sold in small quantities. Region 0 had the greatest variety of unit sales, while regions 2, 3, and 6 had the lowest concentration of sales.
 
-<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig6.jpg?raw=true" width="350" height="400" /></div>
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig6.jpg?raw=true" width="450" height="400" /></div>
 
 
 
