@@ -106,11 +106,11 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 <p>The data collected pertains to the sales and profits of various cleaning products sold by several companies in Mexico (including Reckitt). These data were provided by EBAC and consisted of five .csv files</p>:
 <ul style="font-size: 0.9em;">
-  <li><strong>• FACT_SALES : data related to product sales and profits.</strong>li>
-  <li><strong>• DIM_PRODUCT : general product information</strong>li>
-  <li><strong>• DIM_SEGMENT : data on product format (liquid, powder, gel, etc.)</strong>li>
-  <li><strong>• DIM_CATEGORY : general category of the product</strong>li>
-  <li><strong>• DIM_CALENDAR : dates of the transactions</strong>li> 
+  <li><strong>• FACT_SALES :</strong> data related to product sales and profits.</li>
+  <li><strong>• DIM_PRODUCT :</strong> general product information</strong></li>
+  <li><strong>• DIM_SEGMENT :</strong> data on product format (liquid, powder, gel, etc.)</strong></li>
+  <li><strong>• DIM_CATEGORY :</strong> general category of the product</strong></li>
+  <li><strong>• DIM_CALENDAR :</strong> dates of the transactions</strong></li> 
 </ul>
 Pandas was used to clean up and transform each file. At the end of this section, a single consolidated dataframe was obtained with the sales and profit data for each product including their descriptions and sales dates, respectively. The methods used are presented in the following table:
 
