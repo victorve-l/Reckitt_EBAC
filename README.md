@@ -130,7 +130,7 @@ Pandas was used to clean up and transform each file. At the end of this section,
 
 <p>Describe tu análisis exploratorio de datos, los hallazgos clave y las visualizaciones iniciales.</p>
 
-<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig2.jpg?raw=true" width="500" height="500" /></div>
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig2.jpg?raw=true" width="500" height="300" /></div>
 
 <ul><li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/02_Exploratory%20Data%20Analysis%20(EDA)/Exploratory_Data_Analysis_SQL.sql"> Full code for this section</a></li> </ul>
 
