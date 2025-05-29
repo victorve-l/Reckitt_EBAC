@@ -200,6 +200,7 @@ Pandas was used to clean up and transform each file. At the end of this section,
   <li><strong>• MAPE:</strong> 7.98%</strong></li>
 </ul>
 <p>According to the ARIMA (3,1,1), a model with an RMSE of 3748 units and a MAPE of 8% was obtained, suggesting that this model is adequate to predict the future earnings of VANISH and LYSOL products.</p>
+
 <p><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/05_Time%20Series%20Forecasting/Time%20Series%20Forecasting.ipynb"> Full code for this section</a></p>
 <p><a href="#project-structure">Back to Project Structure</a></p>
 
