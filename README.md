@@ -128,9 +128,13 @@ Pandas was used to clean up and transform each file. At the end of this section,
 <h2 id="exploratory-data-analysis">Exploratory Data Analysis (EDA)🔭</h2>
 
 <p>In EDA, SQL server was used to perform key queries and obtain general insights about the data. Some key queries were left:
+  
   •  Sales per category: safe bleach products are the products with the highest sales and profits.
+
   
   • Sales per region: The areas TOTAL AUTOS SCANNING MEXICO (hereafter called region 0), area 2, and area 5 are the top 3 regions with the highest sales. 
+
+  
   • Sales per time period: year 2022 generated higher revenues than year 2023.</p>
 
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig2.jpg?raw=true" width="500" height="300" /></div>
