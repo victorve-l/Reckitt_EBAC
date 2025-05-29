@@ -158,8 +158,8 @@ Pandas was used to clean up and transform each file. At the end of this section,
 <p> Finally, an interactive dashboard was created in PowerBI where the total sales and profits of the Vanish and Lysol products, respectively, can be visualized. It is also possible to visualize total profits by region and by product type.</p>
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig5.jpg" width="700" height="220" /></div>
 
-<a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/03_Data%20Visualization/Data%20Visualization.ipynb"> Full code for this section</a>
-<a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/03_Data%20Visualization/Power_BI_Dashboard.pdf"> Dashboard Visualization</a>
+<p><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/03_Data%20Visualization/Data%20Visualization.ipynb"> Full code for this section</a></p>
+<p><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/03_Data%20Visualization/Power_BI_Dashboard.pdf"> Dashboard Visualization</a></p>
 <p><a href="#project-structure">Back to Project Structure</a></p>
 
 
