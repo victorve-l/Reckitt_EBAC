@@ -179,7 +179,7 @@ Pandas was used to clean up and transform each file. At the end of this section,
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig8.jpg" width="600" height="500" /></div>
 <p>According to the cluster assignment, clusters 1 and 4 belong to products whose profits are 'low' (less than 1500 units). Cluster 3 belongs to products with intermediate profits (approximately 27 000 units). Clusters 0 and 2 belong to products that generated high profits (greater than 70,000 units). It should be noted that sales en these last groups were variable compared to others.</p>
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig9.jpg" width="600" height="450" /></div>
-<ul><li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/04_Segmentation%20with%20K-means%20Clustering/Segmentation%20with%20K-means%20Clustering.ipynb"> Full code for this section</a></li> </ul>
+<a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/04_Segmentation%20with%20K-means%20Clustering/Segmentation%20with%20K-means%20Clustering.ipynb"> Full code for this section</a>
 
 
 
@@ -200,12 +200,21 @@ Pandas was used to clean up and transform each file. At the end of this section,
   <li><strong>• MAPE:</strong> 7.98%</strong></li>
 </ul>
 <p>According to the ARIMA (3,1,1), a model with an RMSE of 3748 units and a MAPE of 8% was obtained, suggesting that this model is adequate to predict the future earnings of VANISH and LYSOL products.</p>
-<ul><li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/05_Time%20Series%20Forecasting/Time%20Series%20Forecasting.ipynb"> Full code for this section</a></li> </ul>
+<a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/05_Time%20Series%20Forecasting/Time%20Series%20Forecasting.ipynb"> Full code for this section</a>
 
 
 
 <h2 id="conclusions">Conclusions 📒</h2>
+Segmentation by K-means showed that there are items that generate minimal gains (clusters 1 and 4) while there are items that generate high gains (clusters 0 and 2). These items come mainly from pre-wash and bleach products (Vanish). The ARIMA model provides a reasonably accurate prediction (MAPE of 8%) of the total value generated. However, this model also suggests a slightly decreasing trend in the future, so it is important to identify external factors that may influence the company's total earnings in these next periods.
 
-
-
+This project demonstrated that there are certain products for which demand is high, although, unfortunately, most products have low demand and therefore low sales. The magnitude of sales and profits are similar in most of the regions, with the exception of region 0 and 2, which had a higher variability of product sales. The results of this project will serve to prioritize products that have minimal sales (including Lysol products), as well as improve the sales strategy for these products in the regions that generated minimal profits. Some questions that could help to improve the strategy are:
+<ul style="font-size: 0.9em;">
+<li>● Why are some products sold infrequently?</li>
+<li>● What is the frequency with which the different products offered by Reckitt are consumed
+(mainly those with low sales)?</li>
+<li>● Are the products with low sales meeting customer needs?</li>
+<li>● Is the result of low sales because the customer is not interested in the product or because
+our competitors offer something better?</li>
+<li>● Which products sell more each season?</li>
+</ul>
 [Link to the presentation](https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Reckitt_DataScience_FinalPresentation.pdf)
