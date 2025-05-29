@@ -185,10 +185,21 @@ Pandas was used to clean up and transform each file. At the end of this section,
 
 <h2 id="time-series-forecasting">Time Series Forecasting 📈</h2>
 
-<p>Detalla tus modelos de pronóstico de series de tiempo, los resultados y las implicaciones.</p>
+<p>An ARIMA time series model was used to predict earnings, based on sales patterns observed in historical data. The variable TOTAL_VALUE_SALES was used, which represents the total value generated. A graph of historical Reckitt product earnings is shown below: </p>
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig10.jpg" width="500" height="400" /></div>
 
-<p>...</p>
+<p>Before performing the forecasts with ARIMA, the calculation of differencing between observations (Δyt=yt-yt-1) was applied and the Dickey-Fuller test was applied to obtain the optimal p value (optimal p=3):</p>
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig11.jpg" width="500" height="400" /></div>
 
+<p>To determine the hyper parameters of the ARIMA model, the Akaike Information Criterion (AIC) was used to compare different statistical models and select the most appropriate model (more detail on code). The ARIMA (3,1,1) model had the best score according to the AIC, and this model was used to make point predictions using the test database (orange line in the graph) and confidence intervals of the predictions using the test database.</p>
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig12.jpg" width="500" height="400" /></div>
+
+<p>A calculation of the point forecasts and confidence intervals over the next 8 weeks was also made using the ARIMA (3,1,1) model (more detail on code). Finally, to evaluate the accuracy of the model, the mean square error (MSE) and the mean absolute percentage error (MAPE) were calculated:</p>
+<ul style="font-size: 0.9em;">
+  <li><strong>• RMSE:</strong> 3724.72</li>
+  <li><strong>• MAPE:</strong> 7.98%</strong></li>
+</ul>
+<p>According to the ARIMA (3,1,1), a model with an RMSE of 3748 units and a MAPE of 8% was obtained, suggesting that this model is adequate to predict the future earnings of VANISH and LYSOL products.</p>
 
 
 
