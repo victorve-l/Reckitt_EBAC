@@ -117,7 +117,7 @@ Pandas was used to clean up and transform each file. At the end of this section,
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig1.jpg?raw=true" width="500" height="500" /></div>
 
 <ul><li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/01_Data%20Collection%20and%20Wrangling/Data%20collection%20and%20wrangling.ipynb"> Full code for this section</a></li> </ul>
-<p align="center"><a href="#project-structure">Back to Project Structure</a></p>
+<p><a href="#project-structure">Back to Project Structure</a></p>
 
 
 
