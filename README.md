@@ -105,16 +105,15 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 <h2 id="data-collection-wrangling">Data collection and Wrangling 📁</h2>
 
 <p>The data collected pertains to the sales and profits of various cleaning products sold by several companies in Mexico (including Reckitt). These data were provided by EBAC and consisted of five .csv files:
+  • FACT_SALES : data related to product sales and profits.
   
-• FACT_SALES : data related to product sales and profits.
-  
-• DIM_PRODUCT : general product information
+  • DIM_PRODUCT : general product information
 
-• DIM_SEGMENT : data on product format (liquid, powder, gel, etc.)
+  • DIM_SEGMENT : data on product format (liquid, powder, gel, etc.)
 
-• DIM_CATEGORY : general category of the product
+  • DIM_CATEGORY : general category of the product
 
-• DIM_CALENDAR : dates of the transactions
+  • DIM_CALENDAR : dates of the transactions
 
 Pandas was used to clean up and transform each file. At the end of this section, a single consolidated dataframe was obtained with the sales and profit data for each product including their descriptions and sales dates, respectively. The methods used are presented in the following table:
 
@@ -128,7 +127,11 @@ Pandas was used to clean up and transform each file. At the end of this section,
 
 <h2 id="exploratory-data-analysis">Exploratory Data Analysis (EDA)🔭</h2>
 
-<p>Describe tu análisis exploratorio de datos, los hallazgos clave y las visualizaciones iniciales.</p>
+<p>In EDA, SQL server was used to perform key queries and obtain general insights about the data. Some key queries were left:
+  •  Sales per category: safe bleach products are the products with the highest sales and profits.
+  
+  • Sales per region: The areas TOTAL AUTOS SCANNING MEXICO (hereafter called region 0), area 2, and area 5 are the top 3 regions with the highest sales. 
+  • Sales per time period: year 2022 generated higher revenues than year 2023.</p>
 
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig2.jpg?raw=true" width="500" height="300" /></div>
 
