@@ -10,7 +10,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 
 
 
-**This project was part of EBAC Data Scientist Certificate**
+**This project was part of EBAC's Data Scientist Certificate**
 
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Logo.png?raw=true" width="500" height="600" /></div>
 
@@ -130,8 +130,9 @@ Pandas was used to clean up and transform each file. At the end of this section,
 
 <p>Describe tu análisis exploratorio de datos, los hallazgos clave y las visualizaciones iniciales.</p>
 
-<p>...</p>
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig2.jpg?raw=true" width="500" height="500" /></div>
 
+<ul><li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/02_Exploratory%20Data%20Analysis%20(EDA)/Exploratory_Data_Analysis_SQL.sql"> Full code for this section</a></li> </ul>
 
 
 
