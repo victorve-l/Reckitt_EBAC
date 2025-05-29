@@ -152,7 +152,7 @@ Pandas was used to clean up and transform each file. At the end of this section,
 
 <p>With respect to the earnings performance of Reckitt products, the Vanish brand showed an increase in earnings between 2022-23, while earnings for Lysol products remained stable over the same period. </p>
 
-<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig4.jpg" width="700" height="280" /></div>
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig4a.jpg" width="700" height="280" /></div>
 
 
 
