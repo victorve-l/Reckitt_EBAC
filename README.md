@@ -154,6 +154,9 @@ Pandas was used to clean up and transform each file. At the end of this section,
 
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig4.jpg" width="700" height="280" /></div>
 
+
+
+
 <h2 id="segmentation-k-means">Segmentation with K-means Clustering 📚</h2>
 
 <p>Explica tu proceso de segmentación usando K-means clustering, incluyendo los resultados y las interpretaciones.</p>
