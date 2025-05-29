@@ -144,7 +144,7 @@ Pandas was used to clean up and transform each file. At the end of this section,
 
 <p>Visualization of data related to reckit sales was performed using the matplotlib and seaborn libraries. According to the analysis, Vanish products (pre-washers and bleaches) have high and variable unit sales (products have been sold a higher number of times). In the case of Lysol, unit sales proved to be low but consistent (products have been sold a few times). </p>
 
-<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig3.jpg?raw=true" width="500" height="500" /></div>
+<div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig3.jpg?raw=true" width="350" height="400" /></div>
 
 
 
