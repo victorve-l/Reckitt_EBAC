@@ -225,5 +225,5 @@ our competitors offer something better?</li>
 <p>It is recommended that priority be given to regions with low sales and minimal profits, which in this case were regions 2, 3 and 6. Sales could be improved by determining which products the population of each region considers suitable for consumption and which are not of interest to them.Products or items with minimal sales should be upgraded or replaced by products that are more attractive to the population. While Vanish brand prewashers and bleaches showed acceptable sales, Lysol brand sanitizers did not. This means that consumers are not interested in the product, so it would be appropriate to replace or upgrade it. Study the external factors in each region that could influence product sales in particular periods of
 time. This is in order to prevent declines in total profits (as predicted by the ARIMA point forecasts).</p>
 
-<a>[Link to the presentation](https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Reckitt_DataScience_FinalPresentation.pdf)</a>
-<a href="#project-structure">Back to Project Structure</a>
+<p><a>[Link to the presentation](https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Reckitt_DataScience_FinalPresentation.pdf)</a></p>
+<p><a href="#project-structure">Back to Project Structure</a></p>
