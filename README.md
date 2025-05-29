@@ -164,6 +164,7 @@ Pandas was used to clean up and transform each file. At the end of this section,
 
 
 
+
 <h2 id="segmentation-k-means">Segmentation with K-means Clustering 📚</h2>
 
 <p>The K-means clustering algorithm was used to segment the products based on key variables such as total sales, total profits, product type, etc. Data was transformed using the following tools from scikit learn:</p>
@@ -180,8 +181,13 @@ Pandas was used to clean up and transform each file. At the end of this section,
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig8.jpg" width="600" height="500" /></div>
 <p>According to the cluster assignment, clusters 1 and 4 belong to products whose profits are 'low' (less than 1500 units). Cluster 3 belongs to products with intermediate profits (approximately 27 000 units). Clusters 0 and 2 belong to products that generated high profits (greater than 70,000 units). It should be noted that sales en these last groups were variable compared to others.</p>
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig9.jpg" width="600" height="450" /></div>
-<a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/04_Segmentation%20with%20K-means%20Clustering/Segmentation%20with%20K-means%20Clustering.ipynb"> Full code for this section</a>
-<a href="#project-structure">Back to Project Structure</a>
+
+
+
+
+
+
+
 
 <h2 id="time-series-forecasting">Time Series Forecasting 📈</h2>
 
