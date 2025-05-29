@@ -64,6 +64,7 @@ The data to be analyzed come from the sales of Vanish and Lysol pre-wash, bleach
 </div>
 
 <p>Why would we use a data science approach to study sales strategies? Because analyzing and processing large volumes of data will make possible to identify consumer behavior patterns, anticipate trends, improve sales efficiency, and optimize marketing strategies.</p>
+<p><a href="#project-structure">Back to Project Structure</a></p>
 
 
 <h2 id="python-libraries">Python libraries and other methods used 🔍</h2>
@@ -116,7 +117,7 @@ Pandas was used to clean up and transform each file. At the end of this section,
 
 <div align="center"><img src="https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Fig1.jpg?raw=true" width="500" height="500" /></div>
 
-<ul><li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/01_Data%20Collection%20and%20Wrangling/Data%20collection%20and%20wrangling.ipynb"> Full code for this section</a></li> </ul>
+<a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC/blob/main/01_Data%20Collection%20and%20Wrangling/Data%20collection%20and%20wrangling.ipynb"> Full code for this section</a>
 <p><a href="#project-structure">Back to Project Structure</a></p>
 
 
