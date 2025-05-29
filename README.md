@@ -226,4 +226,4 @@ our competitors offer something better?</li>
 time. This is in order to prevent declines in total profits (as predicted by the ARIMA point forecasts).</p>
 
 [Link to the presentation](https://github.com/victorve-l/Reckitt_EBAC/blob/main/Templates/Reckitt_DataScience_FinalPresentation.pdf)
-<h2 id="introduction">Back to Project Structure</h2>
+<a id="introduction">Back to Project Structure</a>
